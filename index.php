@@ -4,7 +4,7 @@
     Plugin Name: csAlexa
     Description: Adds Alexa verification code to website
     Author: Stephan Gerlach
-    Version: 1.0 
+    Version: 1.0.1 
     Author URI: http://www.computersniffer.com
     */  
     

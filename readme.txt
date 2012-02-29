@@ -6,7 +6,7 @@ Author URI: http://www.computersniffer.com
 Tags: Website analysis
 Requires at least: 3.0.0
 Tested up to: 3.3.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Automatically adds the meta tag to claim ownership of a site for Alexa
 
@@ -37,6 +37,10 @@ Because if you don't use this plugin you have to manually add the verification c
 1. Simply add the verification code and press save. Done.
 
 == Changelog ==
+
+= 1.0.1 =
+
+* Added uninstall.php to clean up DB an remove stored information to leave no trace of this plugin.
 
 = 1.0 =
 
